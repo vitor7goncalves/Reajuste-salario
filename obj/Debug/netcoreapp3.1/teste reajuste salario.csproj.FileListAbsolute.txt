@@ -1,0 +1,13 @@
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.exe
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.deps.json
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.runtimeconfig.json
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.runtimeconfig.dev.json
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.dll
+D:\Meus Projetos\Aulas C#\teste reajuste salario\bin\Debug\netcoreapp3.1\teste reajuste salario.pdb
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.csprojAssemblyReference.cache
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.AssemblyInfoInputs.cache
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.AssemblyInfo.cs
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.dll
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.pdb
+D:\Meus Projetos\Aulas C#\teste reajuste salario\obj\Debug\netcoreapp3.1\teste reajuste salario.genruntimeconfig.cache
